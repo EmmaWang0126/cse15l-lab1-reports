@@ -1,5 +1,5 @@
 Part 1 - Set Up Visual Studio Code    
-We need to to download and install the Visual Studio Code on our own computer by the instructions , the Visual Studio Code website is: https://code.visualstudio.com/. 
+We need to to download and install the Visual Studio Code on our own computer by the instructions , the Visual Studio Code website is [code.visualstudio](https://code.visualstudio.com). 
 It has versions for both macOS(for Macs) and Windows(for PCs).      
 After we stalled it, we should be able to open a window that looks like the screenshot below(it may have different colors, language, or menu bars, which depends on our system and settings):          
 ![Image](screenshot1.png)              
