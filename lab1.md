@@ -14,7 +14,7 @@ After you type "yes", the terminal will let you type in the password for your ac
 
                
 Part 3 - Trying Some Commands            
-You can type these commands in your terminal:         
+You can type these seven commands in your terminal:         
 cd ~       
 cd        
 ls -lat        
@@ -23,7 +23,7 @@ ls /home/linux/ieng6/cs15lsp23/cs15lsp23abc      (Notes: "abc" should be one of 
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/               
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt                
 
-When you type the first command "cd~", the terminal will show an empty line; if you type the second and third commands ,termianl will show nothing, don't worry, it is normal, just keep entering the commands. Here is the sreenshot of my terminal after I run those command line above: 
+When you type the first command "cd~", the terminal will show an empty line; if you type the second and third commands ,termianl will show nothing, don't worry, it is normal, just keep entering the commands and see what you have got (Hint: try one command at a time, please do not enter several commands at one time). Here is the sreenshot of my terminal after I run those command line above: 
 ![Image](screenshot3.png)                   
 Notes: Yours may have some differences compare to mine screenshot due to the various of version of Macs and differnt username you entered.                  
 If you finish all three parts above, you can log out the remote server by typing "exit" in your terminal and hit enter, or use Ctrl-D.       
