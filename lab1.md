@@ -7,8 +7,8 @@ After we stalled it, we should be able to open a window that looks like the scre
                   
 Part 2 - Connecting Our Accounts            
 For people who use macOS, in order to use ssh open the terminal in the Visual Studio Code, click Terminal and then New Terminal, after that, we can type the command in the terminal, which is:  
-ssh cs15lsp23ne@ieng6.ucsd.edu (Notes: The letters "ne" in the command line stands for my account, you should write the exactly same letters as in your own account). Then the terminal will show a message like this: " The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])? ". I cannot give you the sreenshot of mine since I already finish these steps. So type "yes" in the terminal and hit enter.                       
+```ssh cs15lsp23ne@ieng6.ucsd.edu``` (Notes: The letters "ne" in the command line stands for my account, you should write the exactly same letters as in your own account). Then the terminal will show a message like this: ```The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])?```. I cannot give you the sreenshot of mine since I already finish these steps. So type "yes" in the terminal and hit enter.                       
 After you type "yes", the terminal will let you type in the password for your account. You will not see the password while you are typing because it is a security method to protect our account. Here is the screenshot after we type our password(excpet the account show in the first line should be your account number and the logged in time will be different):             
 ![Image](screenshot2.png)           
 
@@ -27,3 +27,5 @@ When you type the first command "cd~", the terminal will show an empty line; if 
 ![Image](screenshot3.png)                   
 Notes: Yours may have some differences compare to mine screenshot due to the various of version of Macs and differnt username you entered.                  
 If you finish all three parts above, you can log out the remote server by typing "exit" in your terminal and hit enter, or use Ctrl-D.       
+
+What I have leaned so far are connecting my account through the VScode and run some commands in the terminal. Also, I learned how to use github to insert image and some other markdowns.
